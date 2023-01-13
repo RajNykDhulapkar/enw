@@ -1,0 +1,3 @@
+[submodule "server-nestjs"]
+	path = server-nestjs
+	url = git@github.com:GeeksBee/enw-api.git
